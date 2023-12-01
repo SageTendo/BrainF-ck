@@ -1,8 +1,18 @@
 # BrainF-ck
 A series of BrainF*ck Interpreter Implementations in languages I like.
-Checkout the branches for all implementations...
 
-## Current Implementations
-- Python
-- Java
-- C
+## Usage
+### Compile
+```
+make all
+```
+
+### Run
+```
+make run ARGS='<PROGRAM FILE>'
+```
+
+### Clean
+```
+make clean
+```
